@@ -1,0 +1,45 @@
+/* ==========================================================
+   Change.org con Bootstrap 5 - Estilos propios
+   Metodología Mobile First: primero estilos base (móvil),
+   después media queries con min-width para pantallas mayores.
+   ========================================================== */
+
+/* ---------- Variables (colores, tipografías) ---------- */
+:root {
+  /* TODO: colores corporativos, fuentes, etc. */
+}
+
+/* ---------- Estilos base (móvil) ---------- */
+
+
+/* ---------- Componentes comunes: navbar, footer, botones, tarjetas ---------- */
+
+
+/* ---------- Página: Landing (index.html) ---------- */
+
+
+/* ---------- Página: Listado de peticiones ---------- */
+
+
+/* ---------- Página: Detalle de petición ---------- */
+
+
+/* ---------- Página: Crear petición ---------- */
+
+
+/* ---------- Breakpoints de Bootstrap ---------- */
+/* sm  ≥ 576px */
+@media (min-width: 576px) {
+}
+
+/* md  ≥ 768px */
+@media (min-width: 768px) {
+}
+
+/* lg  ≥ 992px */
+@media (min-width: 992px) {
+}
+
+/* xl  ≥ 1200px */
+@media (min-width: 1200px) {
+}
